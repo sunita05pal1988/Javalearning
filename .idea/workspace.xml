@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56e3e872-4ee2-44ca-872f-8e7077b67576" name="Changes" comment="" />
+    <list default="true" id="56e3e872-4ee2-44ca-872f-8e7077b67576" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Ex_day02/$123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day02/Comments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day02/Comments2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day02/Keywords_Identifiers02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day02/Keywords_identifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day02/NoMainMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day02/RealUseComments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day02/Shortcut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day02/The_23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day02/_1234_133.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day02/_Pramodji.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day02/lab01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,9 +31,24 @@
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sunita05pal1988&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sunita05pal1988/Javalearning.git&quot;,
+    &quot;accountId&quot;: &quot;847cb48b-f717-4b9c-85ec-5d069d1bfd38&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2yDmzGaHttFKiJAzONgXZuRRg5f" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,13 +56,96 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Comments.executor": "Run",
+    "Application.Comments2.executor": "Run",
+    "Application.NoMainMethod.executor": "Run",
     "Application.lab01.executor": "Run",
     "Application.lab02.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "onboarding.tips.debug.path": "C:/Users/MI/IdeaProjects/Javalearning/src/Main.java"
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "onboarding.tips.debug.path": "C:/Users/MI/IdeaProjects/Javalearning/src/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.The_23">
+    <configuration name="Comments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_day02.Comments" />
+      <module name="Javalearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex_day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Comments2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_day02.Comments2" />
+      <module name="Javalearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex_day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NoMainMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_day02.NoMainMethod" />
+      <module name="Javalearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex_day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="The_23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_day02.The_23" />
+      <module name="Javalearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex_day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_day02.lab01" />
+      <module name="Javalearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex_day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.The_23" />
+        <item itemvalue="Application.Comments" />
+        <item itemvalue="Application.Comments2" />
+        <item itemvalue="Application.NoMainMethod" />
+        <item itemvalue="Application.lab01" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="56e3e872-4ee2-44ca-872f-8e7077b67576" name="Changes" comment="" />
