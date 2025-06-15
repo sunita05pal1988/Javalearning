@@ -5,7 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56e3e872-4ee2-44ca-872f-8e7077b67576" name="Changes" comment="New classess">
-      <change afterPath="$PROJECT_DIR$/src/Ex_Lab03/TableofNine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day10/LAb019_Interview_QNA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day10/LAb021_Boolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day10/LAb024_print_F.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day10/Lab014_Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day10/Lab015_Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day10/Lab016_Varibles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day10/Lab017_Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day10/Lab018_Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day10/Lab020_Interview_qn2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day10/Lab022_Numeric_datatye.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day10/Lab023_Byte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day10/Lab025_Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day10/Lab026_Local_Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day10/LabExample01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day10_02/Lab028_FinalExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day10_02/Lab029_Literals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day10_02/Lab030_literals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day10_02/Lab031_Literals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day10_02/Lab032_Literals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day10_02/Lab033_Literals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day10_02/Lab034_literals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +59,9 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2yDmzGaHttFKiJAzONgXZuRRg5f" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,8 +70,19 @@
   "keyToString": {
     "Application.Comments.executor": "Run",
     "Application.Comments2.executor": "Run",
+    "Application.LAb019_Interview_QNA.executor": "Run",
+    "Application.LAb024_print_F.executor": "Run",
+    "Application.Lab016_Varibles.executor": "Run",
+    "Application.Lab017_Variables.executor": "Run",
+    "Application.Lab025_Constants.executor": "Run",
+    "Application.Lab026_Local_Variable.executor": "Run",
+    "Application.Lab028_FinalExample.executor": "Run",
+    "Application.Lab032_Literals.executor": "Run",
+    "Application.Lab034_literals.executor": "Run",
+    "Application.LabExample01.executor": "Run",
     "Application.NoMainMethod.executor": "Run",
     "Application.Table_Nine.executor": "Run",
+    "Application.TableofNine.executor": "Debug",
     "Application.The_23.executor": "Run",
     "Application.lab01.executor": "Run",
     "Application.lab02.executor": "Run",
@@ -56,18 +90,19 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "full.screen.before.presentation.mode": "false",
     "git-widget-placeholder": "master",
     "onboarding.tips.debug.path": "C:/Users/MI/IdeaProjects/Javalearning/src/Main.java",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TableofNine">
-    <configuration name="Comments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex_day02.Comments" />
+  <component name="RunManager" selected="Application.Lab034_literals">
+    <configuration name="Lab026_Local_Variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_day10.Lab026_Local_Variable" />
       <module name="Javalearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex_day02.*" />
+          <option name="PATTERN" value="Ex_day10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Comments2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex_day02.Comments2" />
+    <configuration name="Lab028_FinalExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_day10_02.Lab028_FinalExample" />
       <module name="Javalearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex_day02.*" />
+          <option name="PATTERN" value="Ex_day10_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Table_Nine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex_Lab03.Table_Nine" />
+    <configuration name="Lab032_Literals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_day10_02.Lab032_Literals" />
       <module name="Javalearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex_Lab03.*" />
+          <option name="PATTERN" value="Ex_day10_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TableofNine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex_Lab03.TableofNine" />
+    <configuration name="Lab034_literals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_day10_02.Lab034_literals" />
       <module name="Javalearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex_Lab03.*" />
+          <option name="PATTERN" value="Ex_day10_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="The_23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex_day02.The_23" />
+    <configuration name="LabExample01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_day10.LabExample01" />
       <module name="Javalearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex_day02.*" />
+          <option name="PATTERN" value="Ex_day10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TableofNine" />
-        <item itemvalue="Application.Table_Nine" />
-        <item itemvalue="Application.The_23" />
-        <item itemvalue="Application.Comments" />
-        <item itemvalue="Application.Comments2" />
+        <item itemvalue="Application.Lab034_literals" />
+        <item itemvalue="Application.Lab032_Literals" />
+        <item itemvalue="Application.Lab028_FinalExample" />
+        <item itemvalue="Application.LabExample01" />
+        <item itemvalue="Application.Lab026_Local_Variable" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +188,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749582081992</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="New classess">
+      <option name="closed" value="true" />
+      <created>1749585593643</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749585593643</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
