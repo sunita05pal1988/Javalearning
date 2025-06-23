@@ -5,128 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56e3e872-4ee2-44ca-872f-8e7077b67576" name="Changes" comment="New classess">
-      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/LAb046_Interview_question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/LAb048_Interview_question2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/LAb049_All_Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/LAb052_Intervie3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/LAb053_interview4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/LAb054_interview5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/Lab035_Non_primitive_literals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/Lab036_Assignment_operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/Lab037_Airthmatic_operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/Lab038_Uniary_operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/Lab039_Modulus_operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/Lab040_Relational_operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/Lab041_Logical_operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/Lab042_Interview__Concatination_question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/Lab043_Interview__Concatination_question2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/Lab044_BODMAS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/Lab045_Equal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/Lab047_AND_OR_Gate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/Lab050_New_Opertor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/Lab051_Instance_of_Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/Lab055_interview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/Lab056_interview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day12_TypeCasting_Ternary/Lab057_Typecasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day12_TypeCasting_Ternary/Lab058_Typecasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day12_TypeCasting_Ternary/Lab059_Narrowing_typecasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day12_TypeCasting_Ternary/Lab060_Typecasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day12_TypeCasting_Ternary/Lab061_Typecasting_Used.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day12_TypeCasting_Ternary/Lab062_Ternary_Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day12_TypeCasting_Ternary/Lab063_TO_P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day12_TypeCasting_Ternary/Lab064_TO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day12_TypeCasting_Ternary/Lab065_Minimum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day12_TypeCasting_Ternary/Lab066_Even_Odd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day12_TypeCasting_Ternary/Lab067_Nested_Ternary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day12_TypeCasting_Ternary/Lab068_To_Three_Max.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/LAb080_If_Conditon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/LAn071_POST_ID.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab069_In_De_op.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab070_In_De_op.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab072_ID.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab073_ID.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab074_Advance_ID.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab075_Exp1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab076_Exp2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab077_De.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab078_De.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab081_If_Else_Condition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab083_Interview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab_082_if_else.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab_UserInput_CLI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab_UserInput_CLI2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab_UserInput_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab_UserInput_Scanner02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day16_Switch_Case/Lab084_Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day16_Switch_Case/Lab085_Switch_Without_Break.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day16_Switch_Case/Lab086_Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day16_Switch_Case/Lab087_Real_Switch_Automation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day16_Switch_Case/Lab088_Interview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day16_Switch_Case/Lab089_Interview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day16_Switch_Case/Lab090_Interview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day16_Switch_Case/Lab091_Interview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day16_Switch_Case/Lab092_Interview_Duplicate_case.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day16_Switch_Case/Lab093_JDK13Above.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day16_Switch_Case/Lab094_JDK13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day16_Switch_Case/Lab095_Interview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day16_Switch_Case/Lab096_Interview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab097_For_Loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab098_For_Loop_Var_Name.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab099_For_Loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab100_For_Var_Name.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab101_For_Loop_IQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab102_For_No_Condition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab103_For_If_Loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab104_For_IQ_P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab106_ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab107_ForLoop_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab108_ForLoop3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab109_ForLoop_Condition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab110_Confuse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab111_Even_Odd_From_Top50.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab112_For_Loop_Break.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab113_For_Loop_Continue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab114_For_Loop_Continue_Even_Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab115_For_Real_case.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab116_While.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab117_While2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab118_While_Loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab119_While.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab120_While_IQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab121_While_Checl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab122_While_IQ_FActorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab123_While_Guessing_Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day19_Test/Default_Value_datatype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day19_Test/Implicit_Explicit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day19_Test/Increment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day19_Test/String_Concatination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day23_String_Immutable/Lab0136_String_Creation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day23_String_Immutable/Lab135_String_Immutable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day23_String_Immutable/Lab137_String_Im.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day23_String_Immutable/Lab145_Srting_Functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day23_String_Immutable/LAb139_String_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day23_String_Immutable/Lab138_String_Functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day23_String_Immutable/Lab140_Strings_IQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day23_String_Immutable/Lab141_String_IQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day23_String_Immutable/Lab142_String_Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day23_String_Immutable/Lab143_String_Functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Jun23_Age_Vote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Jun23_Even_Odd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Jun23_Maximum_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Jun23_Postive_Negative_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Jun23_Vowel_Consonant.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_Lab03/TableofNine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_Lab03/TableofNine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_day10/LAb019_Interview_QNA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_Variables_Datatypes/LAb019_Interview_QNA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_day10/LAb021_Boolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_Variables_Datatypes/LAb021_Boolean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_day10/LAb024_print_F.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_Variables_Datatypes/LAb024_print_F.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_day10/Lab014_Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_Variables_Datatypes/Lab014_Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_day10/Lab015_Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_Variables_Datatypes/Lab015_Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_day10/Lab016_Varibles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_Variables_Datatypes/Lab016_Varibles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_day10/Lab017_Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_Variables_Datatypes/Lab017_Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_day10/Lab018_Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_Variables_Datatypes/Lab018_Variable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_day10/Lab020_Interview_qn2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_Variables_Datatypes/Lab020_Interview_qn2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_day10/Lab022_Numeric_datatye.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_Variables_Datatypes/Lab022_Numeric_datatye.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_day10/Lab023_Byte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_Variables_Datatypes/Lab023_Byte.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_day10/Lab025_Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_Variables_Datatypes/Lab025_Constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_day10/Lab026_Local_Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_Variables_Datatypes/Lab026_Local_Variable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_day10/LabExample01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_Variables_Datatypes/LabExample01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_day10_02/Lab028_FinalExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_02_Literals/Lab028_FinalExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_day10_02/Lab029_Literals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_02_Literals/Lab029_Literals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_day10_02/Lab030_literals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_02_Literals/Lab030_literals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_day10_02/Lab031_Literals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_02_Literals/Lab031_Literals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_day10_02/Lab032_Literals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_02_Literals/Lab032_Literals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_day10_02/Lab033_Literals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_02_Literals/Lab033_Literals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_day10_02/Lab034_literals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_02_Literals/Lab034_literals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_day23_String_Immutable/Lab0136_String_Creation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day23_String_Immutable/Lab0136_String_Creation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_day23_String_Immutable/Lab137_String_Im.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day23_String_Immutable/Lab137_String_Im.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,6 +64,11 @@
     "Application.Comments2.executor": "Run",
     "Application.Default_Value_datatype.executor": "Run",
     "Application.Increment.executor": "Run",
+    "Application.Jun23_Age_Vote.executor": "Run",
+    "Application.Jun23_Even_Odd.executor": "Run",
+    "Application.Jun23_Maximum_Number.executor": "Run",
+    "Application.Jun23_Postive_Negative_Number.executor": "Run",
+    "Application.Jun23_Vowel_Consonant.executor": "Run",
     "Application.LAb019_Interview_QNA.executor": "Run",
     "Application.LAb024_print_F.executor": "Run",
     "Application.LAb046_Interview_question.executor": "Run",
@@ -180,6 +77,7 @@
     "Application.LAb052_Intervie3.executor": "Run",
     "Application.LAb054_interview5.executor": "Run",
     "Application.LAb080_If_Conditon.executor": "Run",
+    "Application.LAb139_String_Interview.executor": "Run",
     "Application.LAn071_POST_ID.executor": "Run",
     "Application.Lab016_Varibles.executor": "Run",
     "Application.Lab017_Variables.executor": "Run",
@@ -252,6 +150,12 @@
     "Application.Lab122_While_IQ_FActorial.executor": "Run",
     "Application.Lab123_While_Guessing_Game.executor": "Run",
     "Application.Lab135_String_Immutable.executor": "Run",
+    "Application.Lab137_String_Im.executor": "Run",
+    "Application.Lab138_String_Functions.executor": "Run",
+    "Application.Lab140_Strings_IQ.executor": "Run",
+    "Application.Lab141_String_IQ.executor": "Run",
+    "Application.Lab142_String_Function.executor": "Run",
+    "Application.Lab143_String_Functions.executor": "Run",
     "Application.LabExample01.executor": "Run",
     "Application.Lab_082_if_else.executor": "Debug",
     "Application.Lab_UserInput_CLI.executor": "Run",
@@ -278,13 +182,13 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab123_While_Guessing_Game">
-    <configuration name="Lab119_While" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex_day17_Loop_While.Lab119_While" />
+  <component name="RunManager" selected="Application.Lab143_String_Functions">
+    <configuration name="LAb139_String_Interview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_day23_String_Immutable.LAb139_String_Interview" />
       <module name="Javalearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex_day17_Loop_While.*" />
+          <option name="PATTERN" value="Ex_day23_String_Immutable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -292,12 +196,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab120_While_IQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex_day17_Loop_While.Lab120_While_IQ" />
+    <configuration name="Lab140_Strings_IQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_day23_String_Immutable.Lab140_Strings_IQ" />
       <module name="Javalearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex_day17_Loop_While.*" />
+          <option name="PATTERN" value="Ex_day23_String_Immutable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -305,12 +209,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab121_While_Checl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex_day17_Loop_While.Lab121_While_Checl" />
+    <configuration name="Lab141_String_IQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_day23_String_Immutable.Lab141_String_IQ" />
       <module name="Javalearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex_day17_Loop_While.*" />
+          <option name="PATTERN" value="Ex_day23_String_Immutable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -318,12 +222,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab122_While_IQ_FActorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex_day17_Loop_While.Lab122_While_IQ_FActorial" />
+    <configuration name="Lab142_String_Function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_day23_String_Immutable.Lab142_String_Function" />
       <module name="Javalearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex_day17_Loop_While.*" />
+          <option name="PATTERN" value="Ex_day23_String_Immutable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -331,12 +235,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab123_While_Guessing_Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex_day17_Loop_While.Lab123_While_Guessing_Game" />
+    <configuration name="Lab143_String_Functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_day23_String_Immutable.Lab143_String_Functions" />
       <module name="Javalearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex_day17_Loop_While.*" />
+          <option name="PATTERN" value="Ex_day23_String_Immutable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -345,19 +249,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab119_While" />
-      <item itemvalue="Application.Lab120_While_IQ" />
-      <item itemvalue="Application.Lab121_While_Checl" />
-      <item itemvalue="Application.Lab122_While_IQ_FActorial" />
-      <item itemvalue="Application.Lab123_While_Guessing_Game" />
+      <item itemvalue="Application.LAb139_String_Interview" />
+      <item itemvalue="Application.Lab140_Strings_IQ" />
+      <item itemvalue="Application.Lab141_String_IQ" />
+      <item itemvalue="Application.Lab142_String_Function" />
+      <item itemvalue="Application.Lab143_String_Functions" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab123_While_Guessing_Game" />
-        <item itemvalue="Application.Lab122_While_IQ_FActorial" />
-        <item itemvalue="Application.Lab121_While_Checl" />
-        <item itemvalue="Application.Lab120_While_IQ" />
-        <item itemvalue="Application.Lab119_While" />
+        <item itemvalue="Application.Lab143_String_Functions" />
+        <item itemvalue="Application.Lab142_String_Function" />
+        <item itemvalue="Application.Lab141_String_IQ" />
+        <item itemvalue="Application.Lab140_Strings_IQ" />
+        <item itemvalue="Application.LAb139_String_Interview" />
       </list>
     </recent_temporary>
   </component>
@@ -393,7 +297,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750010838056</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="New classess">
+      <option name="closed" value="true" />
+      <created>1750702445125</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1750702445129</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
