@@ -5,28 +5,128 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56e3e872-4ee2-44ca-872f-8e7077b67576" name="Changes" comment="New classess">
-      <change afterPath="$PROJECT_DIR$/src/Ex_day10/LAb019_Interview_QNA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day10/LAb021_Boolean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day10/LAb024_print_F.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day10/Lab014_Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day10/Lab015_Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day10/Lab016_Varibles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day10/Lab017_Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day10/Lab018_Variable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day10/Lab020_Interview_qn2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day10/Lab022_Numeric_datatye.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day10/Lab023_Byte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day10/Lab025_Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day10/Lab026_Local_Variable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day10/LabExample01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day10_02/Lab028_FinalExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day10_02/Lab029_Literals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day10_02/Lab030_literals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day10_02/Lab031_Literals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day10_02/Lab032_Literals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day10_02/Lab033_Literals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_day10_02/Lab034_literals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/LAb046_Interview_question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/LAb048_Interview_question2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/LAb049_All_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/LAb052_Intervie3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/LAb053_interview4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/LAb054_interview5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/Lab035_Non_primitive_literals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/Lab036_Assignment_operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/Lab037_Airthmatic_operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/Lab038_Uniary_operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/Lab039_Modulus_operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/Lab040_Relational_operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/Lab041_Logical_operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/Lab042_Interview__Concatination_question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/Lab043_Interview__Concatination_question2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/Lab044_BODMAS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/Lab045_Equal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/Lab047_AND_OR_Gate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/Lab050_New_Opertor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/Lab051_Instance_of_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/Lab055_interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day11_Operators/Lab056_interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day12_TypeCasting_Ternary/Lab057_Typecasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day12_TypeCasting_Ternary/Lab058_Typecasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day12_TypeCasting_Ternary/Lab059_Narrowing_typecasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day12_TypeCasting_Ternary/Lab060_Typecasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day12_TypeCasting_Ternary/Lab061_Typecasting_Used.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day12_TypeCasting_Ternary/Lab062_Ternary_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day12_TypeCasting_Ternary/Lab063_TO_P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day12_TypeCasting_Ternary/Lab064_TO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day12_TypeCasting_Ternary/Lab065_Minimum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day12_TypeCasting_Ternary/Lab066_Even_Odd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day12_TypeCasting_Ternary/Lab067_Nested_Ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day12_TypeCasting_Ternary/Lab068_To_Three_Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/LAb080_If_Conditon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/LAn071_POST_ID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab069_In_De_op.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab070_In_De_op.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab072_ID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab073_ID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab074_Advance_ID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab075_Exp1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab076_Exp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab077_De.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab078_De.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab081_If_Else_Condition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab083_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab_082_if_else.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab_UserInput_CLI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab_UserInput_CLI2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab_UserInput_Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab_UserInput_Scanner02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day16_Switch_Case/Lab084_Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day16_Switch_Case/Lab085_Switch_Without_Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day16_Switch_Case/Lab086_Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day16_Switch_Case/Lab087_Real_Switch_Automation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day16_Switch_Case/Lab088_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day16_Switch_Case/Lab089_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day16_Switch_Case/Lab090_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day16_Switch_Case/Lab091_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day16_Switch_Case/Lab092_Interview_Duplicate_case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day16_Switch_Case/Lab093_JDK13Above.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day16_Switch_Case/Lab094_JDK13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day16_Switch_Case/Lab095_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day16_Switch_Case/Lab096_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab097_For_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab098_For_Loop_Var_Name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab099_For_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab100_For_Var_Name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab101_For_Loop_IQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab102_For_No_Condition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab103_For_If_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab104_For_IQ_P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab106_ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab107_ForLoop_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab108_ForLoop3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab109_ForLoop_Condition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab110_Confuse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab111_Even_Odd_From_Top50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab112_For_Loop_Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab113_For_Loop_Continue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab114_For_Loop_Continue_Even_Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab115_For_Real_case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab116_While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab117_While2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab118_While_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab119_While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab120_While_IQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab121_While_Checl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab122_While_IQ_FActorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab123_While_Guessing_Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day19_Test/Default_Value_datatype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day19_Test/Implicit_Explicit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day19_Test/Increment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day19_Test/String_Concatination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day23_String_Immutable/Lab0136_String_Creation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day23_String_Immutable/Lab135_String_Immutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day23_String_Immutable/Lab137_String_Im.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day23_String_Immutable/Lab145_Srting_Functions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_Lab03/TableofNine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_Lab03/TableofNine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_day10/LAb019_Interview_QNA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_Variables_Datatypes/LAb019_Interview_QNA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_day10/LAb021_Boolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_Variables_Datatypes/LAb021_Boolean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_day10/LAb024_print_F.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_Variables_Datatypes/LAb024_print_F.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_day10/Lab014_Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_Variables_Datatypes/Lab014_Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_day10/Lab015_Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_Variables_Datatypes/Lab015_Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_day10/Lab016_Varibles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_Variables_Datatypes/Lab016_Varibles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_day10/Lab017_Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_Variables_Datatypes/Lab017_Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_day10/Lab018_Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_Variables_Datatypes/Lab018_Variable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_day10/Lab020_Interview_qn2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_Variables_Datatypes/Lab020_Interview_qn2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_day10/Lab022_Numeric_datatye.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_Variables_Datatypes/Lab022_Numeric_datatye.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_day10/Lab023_Byte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_Variables_Datatypes/Lab023_Byte.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_day10/Lab025_Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_Variables_Datatypes/Lab025_Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_day10/Lab026_Local_Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_Variables_Datatypes/Lab026_Local_Variable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_day10/LabExample01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_Variables_Datatypes/LabExample01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_day10_02/Lab028_FinalExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_02_Literals/Lab028_FinalExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_day10_02/Lab029_Literals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_02_Literals/Lab029_Literals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_day10_02/Lab030_literals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_02_Literals/Lab030_literals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_day10_02/Lab031_Literals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_02_Literals/Lab031_Literals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_day10_02/Lab032_Literals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_02_Literals/Lab032_Literals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_day10_02/Lab033_Literals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_02_Literals/Lab033_Literals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_day10_02/Lab034_literals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_day10_02_Literals/Lab034_literals.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,8 +170,17 @@
   "keyToString": {
     "Application.Comments.executor": "Run",
     "Application.Comments2.executor": "Run",
+    "Application.Default_Value_datatype.executor": "Run",
+    "Application.Increment.executor": "Run",
     "Application.LAb019_Interview_QNA.executor": "Run",
     "Application.LAb024_print_F.executor": "Run",
+    "Application.LAb046_Interview_question.executor": "Run",
+    "Application.LAb048_Interview_question2.executor": "Run",
+    "Application.LAb049_All_Operator.executor": "Run",
+    "Application.LAb052_Intervie3.executor": "Run",
+    "Application.LAb054_interview5.executor": "Run",
+    "Application.LAb080_If_Conditon.executor": "Run",
+    "Application.LAn071_POST_ID.executor": "Run",
     "Application.Lab016_Varibles.executor": "Run",
     "Application.Lab017_Variables.executor": "Run",
     "Application.Lab025_Constants.executor": "Run",
@@ -79,10 +188,80 @@
     "Application.Lab028_FinalExample.executor": "Run",
     "Application.Lab032_Literals.executor": "Run",
     "Application.Lab034_literals.executor": "Run",
+    "Application.Lab037_Airthmatic_operator.executor": "Run",
+    "Application.Lab038_Uniary_operator.executor": "Run",
+    "Application.Lab039_Modulus_operator.executor": "Run",
+    "Application.Lab040_Relational_operator.executor": "Run",
+    "Application.Lab041_Logical_operator.executor": "Run",
+    "Application.Lab042_Interview__Concatination_question.executor": "Run",
+    "Application.Lab043_Interview__Concatination_question2.executor": "Run",
+    "Application.Lab044_BODMAS.executor": "Run",
+    "Application.Lab045_Equal.executor": "Run",
+    "Application.Lab047_AND_OR_Gate.executor": "Run",
+    "Application.Lab051_Instance_of_Operator.executor": "Run",
+    "Application.Lab055_interview.executor": "Run",
+    "Application.Lab056_interview.executor": "Run",
+    "Application.Lab058_Typecasting.executor": "Run",
+    "Application.Lab059_Narrowing_typecasting.executor": "Run",
+    "Application.Lab061_Typecasting_Used.executor": "Run",
+    "Application.Lab062_Ternary_Operator.executor": "Run",
+    "Application.Lab063_TO_P1.executor": "Run",
+    "Application.Lab064_TO.executor": "Run",
+    "Application.Lab065_Minimum.executor": "Run",
+    "Application.Lab066_Even_Odd.executor": "Run",
+    "Application.Lab067_Nested_Ternary.executor": "Run",
+    "Application.Lab068_To_Three_Max.executor": "Run",
+    "Application.Lab069_In_De_op.executor": "Run",
+    "Application.Lab070_In_De_op.executor": "Run",
+    "Application.Lab074_Advance_ID.executor": "Run",
+    "Application.Lab076_Exp2.executor": "Run",
+    "Application.Lab077_De.executor": "Run",
+    "Application.Lab078_De.executor": "Run",
+    "Application.Lab081_If_Else_Condition.executor": "Run",
+    "Application.Lab083_Interview.executor": "Debug",
+    "Application.Lab084_Switch.executor": "Run",
+    "Application.Lab085_Switch_Without_Break.executor": "Run",
+    "Application.Lab086_Switch.executor": "Run",
+    "Application.Lab087_Real_Switch_Automation.executor": "Run",
+    "Application.Lab089_Interview.executor": "Run",
+    "Application.Lab093_JDK13Above.executor": "Run",
+    "Application.Lab094_JDK13.executor": "Run",
+    "Application.Lab095_Interview.executor": "Run",
+    "Application.Lab096_Interview.executor": "Run",
+    "Application.Lab097_For_Loop.executor": "Run",
+    "Application.Lab098_For_Loop_Var_Name.executor": "Run",
+    "Application.Lab100_For_Var_Name.executor": "Run",
+    "Application.Lab101_For_Loop_IQ.executor": "Run",
+    "Application.Lab102_For_No_Condition.executor": "Run",
+    "Application.Lab103_For_If_Loop.executor": "Debug",
+    "Application.Lab104_For_IQ_P1.executor": "Run",
+    "Application.Lab107_ForLoop_2.executor": "Run",
+    "Application.Lab108_ForLoop3.executor": "Run",
+    "Application.Lab109_ForLoop_Condition.executor": "Run",
+    "Application.Lab110_Confuse.executor": "Run",
+    "Application.Lab111_Even_Odd_From_Top50.executor": "Run",
+    "Application.Lab112_For_Loop_Break.executor": "Run",
+    "Application.Lab113_For_Loop_Continue.executor": "Debug",
+    "Application.Lab114_For_Loop_Continue_Even_Numbers.executor": "Run",
+    "Application.Lab116_While.executor": "Run",
+    "Application.Lab117_While2.executor": "Run",
+    "Application.Lab118_While_Loop.executor": "Run",
+    "Application.Lab119_While.executor": "Run",
+    "Application.Lab120_While_IQ.executor": "Run",
+    "Application.Lab121_While_Checl.executor": "Debug",
+    "Application.Lab122_While_IQ_FActorial.executor": "Run",
+    "Application.Lab123_While_Guessing_Game.executor": "Run",
+    "Application.Lab135_String_Immutable.executor": "Run",
     "Application.LabExample01.executor": "Run",
+    "Application.Lab_082_if_else.executor": "Debug",
+    "Application.Lab_UserInput_CLI.executor": "Run",
+    "Application.Lab_UserInput_CLI2.executor": "Run",
+    "Application.Lab_UserInput_Scanner.executor": "Run",
+    "Application.Lab_UserInput_Scanner02.executor": "Run",
     "Application.NoMainMethod.executor": "Run",
+    "Application.String_Concatination.executor": "Run",
     "Application.Table_Nine.executor": "Run",
-    "Application.TableofNine.executor": "Debug",
+    "Application.TableofNine.executor": "Run",
     "Application.The_23.executor": "Run",
     "Application.lab01.executor": "Run",
     "Application.lab02.executor": "Run",
@@ -93,16 +272,19 @@
     "full.screen.before.presentation.mode": "false",
     "git-widget-placeholder": "master",
     "onboarding.tips.debug.path": "C:/Users/MI/IdeaProjects/Javalearning/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab034_literals">
-    <configuration name="Lab026_Local_Variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex_day10.Lab026_Local_Variable" />
+  <component name="RunManager" selected="Application.Lab123_While_Guessing_Game">
+    <configuration name="Lab119_While" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_day17_Loop_While.Lab119_While" />
       <module name="Javalearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex_day10.*" />
+          <option name="PATTERN" value="Ex_day17_Loop_While.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +292,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab028_FinalExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex_day10_02.Lab028_FinalExample" />
+    <configuration name="Lab120_While_IQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_day17_Loop_While.Lab120_While_IQ" />
       <module name="Javalearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex_day10_02.*" />
+          <option name="PATTERN" value="Ex_day17_Loop_While.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +305,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab032_Literals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex_day10_02.Lab032_Literals" />
+    <configuration name="Lab121_While_Checl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_day17_Loop_While.Lab121_While_Checl" />
       <module name="Javalearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex_day10_02.*" />
+          <option name="PATTERN" value="Ex_day17_Loop_While.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +318,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab034_literals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex_day10_02.Lab034_literals" />
+    <configuration name="Lab122_While_IQ_FActorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_day17_Loop_While.Lab122_While_IQ_FActorial" />
       <module name="Javalearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex_day10_02.*" />
+          <option name="PATTERN" value="Ex_day17_Loop_While.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +331,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LabExample01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex_day10.LabExample01" />
+    <configuration name="Lab123_While_Guessing_Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_day17_Loop_While.Lab123_While_Guessing_Game" />
       <module name="Javalearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex_day10.*" />
+          <option name="PATTERN" value="Ex_day17_Loop_While.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,13 +344,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Lab119_While" />
+      <item itemvalue="Application.Lab120_While_IQ" />
+      <item itemvalue="Application.Lab121_While_Checl" />
+      <item itemvalue="Application.Lab122_While_IQ_FActorial" />
+      <item itemvalue="Application.Lab123_While_Guessing_Game" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab034_literals" />
-        <item itemvalue="Application.Lab032_Literals" />
-        <item itemvalue="Application.Lab028_FinalExample" />
-        <item itemvalue="Application.LabExample01" />
-        <item itemvalue="Application.Lab026_Local_Variable" />
+        <item itemvalue="Application.Lab123_While_Guessing_Game" />
+        <item itemvalue="Application.Lab122_While_IQ_FActorial" />
+        <item itemvalue="Application.Lab121_While_Checl" />
+        <item itemvalue="Application.Lab120_While_IQ" />
+        <item itemvalue="Application.Lab119_While" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +385,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749585593643</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="New classess">
+      <option name="closed" value="true" />
+      <created>1750010838056</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1750010838056</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,5 +410,100 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New classess" />
     <option name="LAST_COMMIT_MESSAGE" value="New classess" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Ex_day11_Operators/LAb054_interview5.java</url>
+          <line>3</line>
+          <properties class="Ex_day11_Operators.LAb054_interview5" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab083_Interview.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab083_Interview.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab083_Interview.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab_082_if_else.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab_082_if_else.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab_082_if_else.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab_082_if_else.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab_082_if_else.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab_082_if_else.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab_082_if_else.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex_day13_Increment_If_Else/Lab_082_if_else.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab103_For_If_Loop.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab103_For_If_Loop.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab112_For_Loop_Break.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab113_For_Loop_Continue.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex_day17_Loop_While/Lab113_For_Loop_Continue.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
