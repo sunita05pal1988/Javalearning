@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56e3e872-4ee2-44ca-872f-8e7077b67576" name="Changes" comment="New classess" />
+    <list default="true" id="56e3e872-4ee2-44ca-872f-8e7077b67576" name="Changes" comment="New classess">
+      <change afterPath="$PROJECT_DIR$/src/Task/Jun24_Smallest_Number_Bw_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +57,7 @@
     "Application.Jun23_Maximum_Number.executor": "Run",
     "Application.Jun23_Postive_Negative_Number.executor": "Run",
     "Application.Jun23_Vowel_Consonant.executor": "Run",
+    "Application.Jun24_Largest_Number_Bw_3.executor": "Run",
     "Application.LAb019_Interview_QNA.executor": "Run",
     "Application.LAb024_print_F.executor": "Run",
     "Application.LAb046_Interview_question.executor": "Run",
@@ -174,39 +178,39 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab_Interview_Vowels">
+  <component name="RunManager" selected="Application.Jun24_LargestNumberBw2">
+    <configuration name="Jun24_LargestNumberBw2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.Jun24_LargestNumberBw2" />
+      <module name="Javalearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Jun24_Smallest_Number_Bw_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.Jun24_Smallest_Number_Bw_3" />
+      <module name="Javalearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Lab144_IQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex_day23June_String_Immutable.Lab144_IQ" />
       <module name="Javalearning" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Ex_day23June_String_Immutable.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab146_SB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex_day24June_StringBuilder_StringBuffer.Lab146_SB" />
-      <module name="Javalearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ex_day24June_StringBuilder_StringBuffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab_147_SBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex_day24June_StringBuilder_StringBuffer.Lab_147_SBuilder" />
-      <module name="Javalearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ex_day24June_StringBuilder_StringBuffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,19 +245,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Jun24_LargestNumberBw2" />
+      <item itemvalue="Application.Jun24_Smallest_Number_Bw_3" />
       <item itemvalue="Application.Lab144_IQ" />
-      <item itemvalue="Application.Lab146_SB" />
-      <item itemvalue="Application.Lab_147_SBuilder" />
       <item itemvalue="Application.Lab_148_SB_Functions" />
       <item itemvalue="Application.Lab_Interview_Vowels" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Jun24_LargestNumberBw2" />
+        <item itemvalue="Application.Jun24_Smallest_Number_Bw_3" />
         <item itemvalue="Application.Lab_Interview_Vowels" />
         <item itemvalue="Application.Lab144_IQ" />
         <item itemvalue="Application.Lab_148_SB_Functions" />
-        <item itemvalue="Application.Lab_147_SBuilder" />
-        <item itemvalue="Application.Lab146_SB" />
       </list>
     </recent_temporary>
   </component>
@@ -321,7 +325,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750790697811</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="New classess">
+      <option name="closed" value="true" />
+      <created>1750790851528</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1750790851528</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
