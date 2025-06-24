@@ -1,5 +1,3 @@
-package Ex_day23June_String_Immutable;
-
 public class Lab138_String_Functions {
     public static void main(String[] args) {
         char c = 'A';
