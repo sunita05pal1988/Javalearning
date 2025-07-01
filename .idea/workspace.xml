@@ -5,10 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56e3e872-4ee2-44ca-872f-8e7077b67576" name="Changes" comment="New classess">
-      <change afterPath="$PROJECT_DIR$/src/Task/Jun25_Armstrong_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/Jun25_Electricity_Bill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/Jun25_Eligible_loan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/Jun25_Number_Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day25June_Arrays/Lab149_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day25June_Arrays/Lab150_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day25June_Arrays/Lab151_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day25June_Arrays/Lab152_Arrays_Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day25June_Arrays/Lab153_Arrays_Max_Min.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day25June_Arrays/Lab154_Array_User_Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day25June_Arrays/Lab156_Array_Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day25June_Arrays/Lab156_Sum_of_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day25June_Arrays/Lab157_2nd_Largest_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day25June_Arrays/Lab158_String_CLI_ForEach_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day25June_Arrays/Lab159_Array_Find_Element_Linear_Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day25June_Arrays/Lab160_ArrayCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day27June_Multidimensional_Arrays/LAb162_2d_Array_Iterate_For_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day27June_Multidimensional_Arrays/Lab161_2d_p0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day27June_Multidimensional_Arrays/Lab163_Right_Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day27June_Multidimensional_Arrays/Lab164_Multiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day27June_Multidimensional_Arrays/Lab165_Left_Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day27June_Multidimensional_Arrays/Lab_159_2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day27June_Multidimensional_Arrays/Lab_160_Jagged_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day30June_OOps/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day30June_OOps/Lab166_OOPs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_day30June_OOps/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Jun25_Calculate_Employee_Salary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +83,8 @@
     "Application.Jun24_Largest_Number_Bw_3.executor": "Run",
     "Application.Jun24_Smallest_Number_Bw_3.executor": "Run",
     "Application.Jun25_Armstrong_Number.executor": "Debug",
+    "Application.Jun25_Calculate_Employee_Salary.executor": "Run",
+    "Application.Jun25_Electricity_Bill.executor": "Run",
     "Application.Jun25_Eligible_loan.executor": "Run",
     "Application.Jun25_Number_Palindrome.executor": "Run",
     "Application.LAb019_Interview_QNA.executor": "Run",
@@ -75,6 +96,7 @@
     "Application.LAb054_interview5.executor": "Run",
     "Application.LAb080_If_Conditon.executor": "Run",
     "Application.LAb139_String_Interview.executor": "Run",
+    "Application.LAb162_2d_Array_Iterate_For_Loop.executor": "Run",
     "Application.LAn071_POST_ID.executor": "Run",
     "Application.Lab016_Varibles.executor": "Run",
     "Application.Lab017_Variables.executor": "Run",
@@ -156,6 +178,21 @@
     "Application.Lab144_IQ.executor": "Debug",
     "Application.Lab145_SB.executor": "Run",
     "Application.Lab146_SB.executor": "Run",
+    "Application.Lab149_Arrays.executor": "Run",
+    "Application.Lab150_Arrays.executor": "Run",
+    "Application.Lab151_Arrays.executor": "Run",
+    "Application.Lab152_Arrays_Print.executor": "Run",
+    "Application.Lab153_Arrays_Max_Min.executor": "Run",
+    "Application.Lab154_Array_User_Input.executor": "Run",
+    "Application.Lab156_Array_Reverse.executor": "Run",
+    "Application.Lab156_Sum_of_Arrays.executor": "Run",
+    "Application.Lab157_2nd_Largest_Number.executor": "Run",
+    "Application.Lab158_String_CLI_ForEach_Loop.executor": "Run",
+    "Application.Lab159_Array_Find_Element_Linear_Search.executor": "Run",
+    "Application.Lab160_ArrayCopy.executor": "Run",
+    "Application.Lab163_Right_Triangle.executor": "Run",
+    "Application.Lab164_Multiplication.executor": "Run",
+    "Application.Lab165_Left_Triangle.executor": "Run",
     "Application.LabExample01.executor": "Run",
     "Application.Lab_082_if_else.executor": "Debug",
     "Application.Lab_144_StringBuilder_Vs_StringBuffer.executor": "Run",
@@ -186,13 +223,13 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Jun25_Electricity_Bill">
-    <configuration name="Jun24_LargestNumberBw2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.Jun24_LargestNumberBw2" />
+  <component name="RunManager" selected="Application.Lab165_Left_Triangle">
+    <configuration name="LAb162_2d_Array_Iterate_For_Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_day27June_Multidimensional_Arrays.LAb162_2d_Array_Iterate_For_Loop" />
       <module name="Javalearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task.*" />
+          <option name="PATTERN" value="Ex_day27June_Multidimensional_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,12 +237,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Jun25_Armstrong_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.Jun25_Armstrong_Number" />
+    <configuration name="Lab160_ArrayCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_day25June_Arrays.Lab160_ArrayCopy" />
       <module name="Javalearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task.*" />
+          <option name="PATTERN" value="Ex_day25June_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,12 +250,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Jun25_Electricity_Bill" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.Jun25_Electricity_Bill" />
+    <configuration name="Lab163_Right_Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_day27June_Multidimensional_Arrays.Lab163_Right_Triangle" />
       <module name="Javalearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task.*" />
+          <option name="PATTERN" value="Ex_day27June_Multidimensional_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,12 +263,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Jun25_Eligible_loan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.Jun25_Eligible_loan" />
+    <configuration name="Lab164_Multiplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_day27June_Multidimensional_Arrays.Lab164_Multiplication" />
       <module name="Javalearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task.*" />
+          <option name="PATTERN" value="Ex_day27June_Multidimensional_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,12 +276,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Jun25_Number_Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.Jun25_Number_Palindrome" />
+    <configuration name="Lab165_Left_Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_day27June_Multidimensional_Arrays.Lab165_Left_Triangle" />
       <module name="Javalearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task.*" />
+          <option name="PATTERN" value="Ex_day27June_Multidimensional_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -253,19 +290,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Jun25_Armstrong_Number" />
-      <item itemvalue="Application.Jun25_Electricity_Bill" />
-      <item itemvalue="Application.Jun25_Eligible_loan" />
-      <item itemvalue="Application.Jun25_Number_Palindrome" />
-      <item itemvalue="Application.Jun24_LargestNumberBw2" />
+      <item itemvalue="Application.LAb162_2d_Array_Iterate_For_Loop" />
+      <item itemvalue="Application.Lab163_Right_Triangle" />
+      <item itemvalue="Application.Lab164_Multiplication" />
+      <item itemvalue="Application.Lab165_Left_Triangle" />
+      <item itemvalue="Application.Lab160_ArrayCopy" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Jun25_Electricity_Bill" />
-        <item itemvalue="Application.Jun25_Eligible_loan" />
-        <item itemvalue="Application.Jun25_Armstrong_Number" />
-        <item itemvalue="Application.Jun25_Number_Palindrome" />
-        <item itemvalue="Application.Jun24_LargestNumberBw2" />
+        <item itemvalue="Application.Lab165_Left_Triangle" />
+        <item itemvalue="Application.Lab164_Multiplication" />
+        <item itemvalue="Application.Lab163_Right_Triangle" />
+        <item itemvalue="Application.LAb162_2d_Array_Iterate_For_Loop" />
+        <item itemvalue="Application.Lab160_ArrayCopy" />
       </list>
     </recent_temporary>
   </component>
@@ -349,7 +386,23 @@
       <option name="project" value="LOCAL" />
       <updated>1750799091301</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="New classess">
+      <option name="closed" value="true" />
+      <created>1750849279762</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1750849279762</updated>
+    </task>
+    <task id="LOCAL-00011" summary="New classess">
+      <option name="closed" value="true" />
+      <created>1750849351004</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1750849351004</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
