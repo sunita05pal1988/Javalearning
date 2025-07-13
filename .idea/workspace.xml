@@ -5,53 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56e3e872-4ee2-44ca-872f-8e7077b67576" name="Changes" comment="New classess">
-      <change afterPath="$PROJECT_DIR$/src/Ex_01July_Constuctor/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_01July_Constuctor/CommonToAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_01July_Constuctor/Lab167_OOps_P2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_01July_Constuctor/Lab168_Cats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_01July_Constuctor/Lab169.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_01July_Constuctor/Lab172_OOps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_01July_Constuctor/Lab173_OOPs_Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_01July_Constuctor/Lab174_Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_01July_Constuctor/Lab176_DC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_01July_Constuctor/Lab177_PC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_01July_Constuctor/Lab178_PC_Real.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_01July_Constuctor/Lab179_PC_Constructor_Overloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_01July_Constuctor/P10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_01July_Constuctor/P9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_01July_Constuctor/TestCase1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_01July_Constuctor/TestCase2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_02July_Inheritance/single_inheritance/CommonToAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_02July_Inheritance/single_inheritance/Lab180_Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_02July_Inheritance/single_inheritance/Lab181_real_si.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_02July_Inheritance/single_inheritance/TestCase1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_02July_Inheritance/single_inheritance/TestCase2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_02July_Inheritance/single_inheritance/hierarchical/Lab185_hierarchical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_02July_Inheritance/single_inheritance/hybrid/Lab186_Hybrid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_02July_Inheritance/single_inheritance/multilevel_inheritance/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_02July_Inheritance/single_inheritance/multilevel_inheritance/GrandFather.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_02July_Inheritance/single_inheritance/multilevel_inheritance/Lab182_MultiLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_02July_Inheritance/single_inheritance/multilevel_inheritance/Lab183_MultiLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_02July_Inheritance/single_inheritance/multilevel_inheritance/Lab184_MultiLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_02July_Inheritance/single_inheritance/multilevel_inheritance/Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_02July_Inheritance/single_inheritance/multiple_inheritance/Father_f1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_02July_Inheritance/single_inheritance/multiple_inheritance/Father_f2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_02July_Inheritance/single_inheritance/multiple_inheritance/Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_03July_Polymorphism/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_03July_Polymorphism/Lab187_Poly_MethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_03July_Polymorphism/Lab188_Real_MOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_03July_Polymorphism/Lab189_MOverriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_03July_Polymorphism/Lab190_MOverriding_Automation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_03July_Polymorphism/WebAutomation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/July02/Animal_Sound_Simulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/July03/MethodOverloading/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/July03/MethodOverloading/Greeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/July03/MethodOverloading/Maximum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/July03/MethodOverloading/MultiplyNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/July03/MethodOverloading/PrintData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_25-06-2025_00_15_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_25-06-2025_00_15__Changes_.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04July_Super/Lab193_SuperKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04July_Super/Lab194_Super.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04July_accessModifier/Lab192.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04July_accessModifier/criminal/SubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04July_accessModifier/criminal/Thief.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04July_accessModifier/police/Cop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04July_accessModifier/police/Jr2Cop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04July_accessModifier/police/JrCop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_07_Abstraction_Abstract/Lab195_Abstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_07_Abstraction_Abstract/Lab196_AB_Cars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_07_Abstraction_Abstract/Lab197_Abstraction_Real.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_07_Abstraction_Interface/Lab198_Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_07_Abstraction_Interface/Lab199_Car_Practicle_Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_07_Abstraction_Interface/Lab200_Multiple_Inheritance_Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_07_Abstraction_Interface/Lab201_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_07_Abstraction_Interface/Lab202_Abstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_08July_ENUM/APIURLs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_08July_ENUM/Colors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_08July_ENUM/Lab210_ENUM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_08July_ENUM/Lab211_ENUM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_08July_ENUM/Lacators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_08July_ENUM/Temp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_08July_IIB/Lab203_IIB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_08July_IIB/Lab204_IIB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_08July_Static/Lab205_Static_IIB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_08July_Static/Lab206_Static.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_08July_Static/Lab207_Static.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_08July_Static/Lab208_Static_Real.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_08July_Static/Lab209_Static_WebAutomation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_09July_Wrapper/Lab212_Primitive_Wrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_09July_Wrapper/Lab213_Wrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_09July_Wrapper/Lab214_Wrapper_Conversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_09July_Wrapper/Lab215_Wrapper_Conversion_Part2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_09July_Wrapper/Lab216_Wrapper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +49,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -253,6 +241,29 @@
     "Application.Lab189_MOverriding.executor": "Run",
     "Application.Lab190_MOverriding_Automation (1).executor": "Run",
     "Application.Lab190_MOverriding_Automation.executor": "Run",
+    "Application.Lab192 (1).executor": "Run",
+    "Application.Lab192.executor": "Run",
+    "Application.Lab194_Super (1).executor": "Run",
+    "Application.Lab194_Super (2).executor": "Run",
+    "Application.Lab194_Super.executor": "Run",
+    "Application.Lab195_Abstraction.executor": "Run",
+    "Application.Lab196_AB_Cars.executor": "Run",
+    "Application.Lab197_Abstraction_Real.executor": "Run",
+    "Application.Lab198_Interface.executor": "Run",
+    "Application.Lab199_Car_Practicle_Interface.executor": "Run",
+    "Application.Lab200_Multiple_Inheritance_Interface.executor": "Run",
+    "Application.Lab203_IIB.executor": "Run",
+    "Application.Lab204_IIB.executor": "Run",
+    "Application.Lab205_Static_IIB.executor": "Run",
+    "Application.Lab206_Static.executor": "Run",
+    "Application.Lab208_Static_Real (1).executor": "Run",
+    "Application.Lab208_Static_Real.executor": "Run",
+    "Application.Lab209_Static_WebAutomation.executor": "Run",
+    "Application.Lab210_ENUM.executor": "Run",
+    "Application.Lab211_ENUM.executor": "Run",
+    "Application.Lab214_Wrapper_Conversion.executor": "Run",
+    "Application.Lab215_Wrapper_Conversion_Part2.executor": "Run",
+    "Application.Lab216_Wrapper.executor": "Run",
     "Application.LabExample01.executor": "Run",
     "Application.Lab_082_if_else.executor": "Debug",
     "Application.Lab_144_StringBuilder_Vs_StringBuffer.executor": "Run",
@@ -263,6 +274,7 @@
     "Application.Lab_UserInput_CLI2.executor": "Run",
     "Application.Lab_UserInput_Scanner.executor": "Run",
     "Application.Lab_UserInput_Scanner02.executor": "Run",
+    "Application.Maximum (1).executor": "Run",
     "Application.Maximum.executor": "Run",
     "Application.MultiplyNumbers.executor": "Run",
     "Application.NoMainMethod.executor": "Run",
@@ -272,6 +284,7 @@
     "Application.TableofNine.executor": "Run",
     "Application.Task.July03.Calculator.executor": "Run",
     "Application.The_23.executor": "Run",
+    "Application.Thief.executor": "Run",
     "Application.lab01.executor": "Run",
     "Application.lab02.executor": "Run",
     "Application.lab167OOpsP2.executor": "Run",
@@ -288,13 +301,13 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Maximum (1)">
-    <configuration name="Greeter (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.July03.MethodOverloading.Greeter" />
+  <component name="RunManager" selected="Application.Lab216_Wrapper (2)">
+    <configuration name="Lab214_Wrapper_Conversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_09July_Wrapper.Lab214_Wrapper_Conversion" />
       <module name="Javalearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task.July03.MethodOverloading.*" />
+          <option name="PATTERN" value="Ex_09July_Wrapper.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -302,12 +315,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Greeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.July03.MethodOverloading.Greeter" />
+    <configuration name="Lab215_Wrapper_Conversion_Part2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_09July_Wrapper.Lab215_Wrapper_Conversion_Part2" />
       <module name="Javalearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task.July03.MethodOverloading.*" />
+          <option name="PATTERN" value="Ex_09July_Wrapper.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -315,12 +328,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maximum (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.July03.MethodOverloading.Maximum" />
+    <configuration name="Lab216_Wrapper (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_09July_Wrapper.Lab216_Wrapper" />
       <module name="Javalearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task.July03.MethodOverloading.*" />
+          <option name="PATTERN" value="Ex_09July_Wrapper.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -328,12 +341,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.July03.MethodOverloading.Maximum" />
+    <configuration name="Lab216_Wrapper (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_09July_Wrapper.Lab216_Wrapper" />
       <module name="Javalearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task.July03.MethodOverloading.*" />
+          <option name="PATTERN" value="Ex_09July_Wrapper.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -341,25 +354,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiplyNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.July03.MethodOverloading.MultiplyNumbers" />
+    <configuration name="Lab216_Wrapper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_09July_Wrapper.Lab216_Wrapper" />
       <module name="Javalearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task.July03.MethodOverloading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task.July03.Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.July03.Calculator" />
-      <module name="Javalearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Task.July03.*" />
+          <option name="PATTERN" value="Ex_09July_Wrapper.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -368,19 +368,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Greeter" />
-      <item itemvalue="Application.Greeter (1)" />
-      <item itemvalue="Application.Maximum" />
-      <item itemvalue="Application.Maximum (1)" />
-      <item itemvalue="Application.MultiplyNumbers" />
+      <item itemvalue="Application.Lab214_Wrapper_Conversion" />
+      <item itemvalue="Application.Lab215_Wrapper_Conversion_Part2" />
+      <item itemvalue="Application.Lab216_Wrapper" />
+      <item itemvalue="Application.Lab216_Wrapper (1)" />
+      <item itemvalue="Application.Lab216_Wrapper (2)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Maximum (1)" />
-        <item itemvalue="Application.Maximum" />
-        <item itemvalue="Application.Greeter (1)" />
-        <item itemvalue="Application.Greeter" />
-        <item itemvalue="Application.MultiplyNumbers" />
+        <item itemvalue="Application.Lab216_Wrapper (2)" />
+        <item itemvalue="Application.Lab216_Wrapper (1)" />
+        <item itemvalue="Application.Lab216_Wrapper" />
+        <item itemvalue="Application.Lab215_Wrapper_Conversion_Part2" />
+        <item itemvalue="Application.Lab214_Wrapper_Conversion" />
       </list>
     </recent_temporary>
   </component>
@@ -488,7 +488,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751372595586</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="New classess">
+      <option name="closed" value="true" />
+      <created>1751566656814</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1751566656814</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
